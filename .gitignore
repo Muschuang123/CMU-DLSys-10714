@@ -1,0 +1,34 @@
+# Homework datasets
+hw*/data/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Build outputs
+build/
+**/build/
+dist/
+**/dist/
+*.egg-info/
+**/*.egg-info/
+
+# Native extension and compiler outputs
+*.pyd
+*.so
+*.dll
+*.dylib
+*.o
+*.obj
+*.lib
+*.exp
+*.exe
+
+# Coverage and logs
+.coverage
+htmlcov/
+*.log
